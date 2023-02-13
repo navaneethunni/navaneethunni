@@ -10,8 +10,8 @@
 	pager = delta
 [sendemail]
 	smtpencryption = tls
-	smtpserver = smtp.gmail.com
-	smtpuser = pavan.sss1991@gmail.com
+	smtpserver = smtp.nyu.edu
+	smtpuser = nu2071@nyu.edu
 	smtppass = password
 	smtpserverport = 587
 [web]
